@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "test/TokenizedVickreyAuction.t.sol",
+    "id": 801,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "10114:0:6",
+    "nodes": [],
+    "license": "MIT"
+  },
+  "id": 6
+}
